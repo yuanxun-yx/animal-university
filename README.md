@@ -1,6 +1,6 @@
 <img src="logo.png" alt="logo" width="350">
 
-# Animal University
+# Animal University (AniU)
 An open-source solution for generic animal behavioral experiment hardware control, data receiving, storage and analysis.
 ## Download
 ```bash
